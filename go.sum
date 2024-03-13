@@ -57,8 +57,8 @@ github.com/aws/aws-sdk-go-v2/service/sts v1.19.2 h1:XFJ2Z6sNUUcAz9poj+245DMkrHE4
 github.com/aws/aws-sdk-go-v2/service/sts v1.19.2/go.mod h1:dp0yLPsLBOi++WTxzCjA/oZqi6NPIhoR+uF7GeMU9eg=
 github.com/aws/smithy-go v1.13.5 h1:hgz0X/DX0dGqTYpGALqXJoRKRj5oQ7150i5FdTePzO8=
 github.com/aws/smithy-go v1.13.5/go.mod h1:Tg+OJXh4MB2R/uN61Ko2f6hTZwB/ZYGOtib8J3gBHzA=
-github.com/chaosblade-io/chaosblade-spec-go v1.7.2 h1:0XiGiNFl8gBByL7otPfCduTD1q2udaksXKhw+qoNIsQ=
-github.com/chaosblade-io/chaosblade-spec-go v1.7.2/go.mod h1:GMDRCEt9jw2+PdX+S2eKBg4ES6PENRc7xsLohWJWM6s=
+github.com/lomoonmoonbird/chaosblade-spec-go v1.7.2 h1:0XiGiNFl8gBByL7otPfCduTD1q2udaksXKhw+qoNIsQ=
+github.com/lomoonmoonbird/chaosblade-spec-go v1.7.2/go.mod h1:GMDRCEt9jw2+PdX+S2eKBg4ES6PENRc7xsLohWJWM6s=
 github.com/cilium/ebpf v0.4.0/go.mod h1:4tRaxcgiL706VnOzHOdBlY8IEAIdxINsQBcU4xJJXRs=
 github.com/clbanning/mxj/v2 v2.5.6 h1:Jm4VaCI/+Ug5Q57IzEoZbwx4iQFA6wkXv72juUSeK+g=
 github.com/clbanning/mxj/v2 v2.5.6/go.mod h1:hNiWqW14h+kc+MdF9C6/YoRfjEJoR3ou6tn/Qo+ve2s=

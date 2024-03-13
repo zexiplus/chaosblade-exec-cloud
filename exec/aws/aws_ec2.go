@@ -22,14 +22,14 @@ import (
 	"github.com/aws/aws-sdk-go-v2/config"
 	"github.com/aws/aws-sdk-go-v2/credentials"
 	"github.com/aws/aws-sdk-go-v2/service/ec2"
-	"github.com/chaosblade-io/chaosblade-spec-go/log"
+	"github.com/lomoonmoonbird/chaosblade-spec-go/log"
 	"os"
 	"strings"
 
-	"github.com/chaosblade-io/chaosblade-exec-cloud/exec"
-	"github.com/chaosblade-io/chaosblade-exec-cloud/exec/category"
-	"github.com/chaosblade-io/chaosblade-spec-go/spec"
-	"github.com/chaosblade-io/chaosblade-spec-go/util"
+	"github.com/lomoonmoonbird/chaosblade-exec-cloud/exec"
+	"github.com/lomoonmoonbird/chaosblade-exec-cloud/exec/category"
+	"github.com/lomoonmoonbird/chaosblade-spec-go/spec"
+	"github.com/lomoonmoonbird/chaosblade-spec-go/util"
 )
 
 const Ec2Bin = "chaos_aws_ec2"
