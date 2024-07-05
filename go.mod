@@ -12,8 +12,8 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.102.0
 	github.com/containerd/cgroups v1.0.2-0.20210605143700-23b51209bf7b
 	github.com/howeyc/gopass v0.0.0-20190910152052-7cb4b85ec19c
-	github.com/zexiplus/chaosblade-spec-go v1.8.5
 	github.com/stretchr/testify v1.6.1
+	github.com/zexiplus/chaosblade-spec-go v1.8.5
 	golang.org/x/crypto v0.0.0-20210711020723-a769d52b0f97
 )
 
@@ -63,6 +63,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c // indirect
 )
 
-replace (
-	github.com/zexiplus/chaosblade-spec-go => /home/chaosblade/chaosblade-spec-go
-)
+replace github.com/zexiplus/chaosblade-spec-go => /home/chaosblade/chaosblade-spec-go
