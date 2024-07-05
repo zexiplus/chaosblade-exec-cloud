@@ -18,15 +18,15 @@ package aliyun
 
 import (
 	"context"
-	"github.com/lomoonmoonbird/chaosblade-spec-go/channel"
-	"github.com/lomoonmoonbird/chaosblade-spec-go/log"
+	"github.com/zexiplus/chaosblade-spec-go/channel"
+	"github.com/zexiplus/chaosblade-spec-go/log"
 	"os"
 	"strings"
 
-	"github.com/lomoonmoonbird/chaosblade-exec-cloud/exec"
-	"github.com/lomoonmoonbird/chaosblade-exec-cloud/exec/category"
-	"github.com/lomoonmoonbird/chaosblade-spec-go/spec"
-	"github.com/lomoonmoonbird/chaosblade-spec-go/util"
+	"github.com/zexiplus/chaosblade-exec-cloud/exec"
+	"github.com/zexiplus/chaosblade-exec-cloud/exec/category"
+	"github.com/zexiplus/chaosblade-spec-go/spec"
+	"github.com/zexiplus/chaosblade-spec-go/util"
 
 	openapi "github.com/alibabacloud-go/darabonba-openapi/client"
 	ecs20140526 "github.com/alibabacloud-go/ecs-20140526/v4/client"

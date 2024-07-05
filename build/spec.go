@@ -17,14 +17,14 @@
 package main
 
 import (
-	"github.com/lomoonmoonbird/chaosblade-exec-cloud/exec/aliyun"
-	"github.com/lomoonmoonbird/chaosblade-exec-cloud/exec/aws"
-	"github.com/lomoonmoonbird/chaosblade-exec-cloud/exec/model"
+	"github.com/zexiplus/chaosblade-exec-cloud/exec/aliyun"
+	"github.com/zexiplus/chaosblade-exec-cloud/exec/aws"
+	"github.com/zexiplus/chaosblade-exec-cloud/exec/model"
 	"log"
 	"os"
 
-	"github.com/lomoonmoonbird/chaosblade-spec-go/spec"
-	"github.com/lomoonmoonbird/chaosblade-spec-go/util"
+	"github.com/zexiplus/chaosblade-spec-go/spec"
+	"github.com/zexiplus/chaosblade-spec-go/util"
 )
 
 // main creates the yaml file of the experiments in the project

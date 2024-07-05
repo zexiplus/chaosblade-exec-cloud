@@ -17,10 +17,10 @@
 package model
 
 import (
-	"github.com/lomoonmoonbird/chaosblade-spec-go/channel"
-	"github.com/lomoonmoonbird/chaosblade-spec-go/spec"
+	"github.com/zexiplus/chaosblade-spec-go/channel"
+	"github.com/zexiplus/chaosblade-spec-go/spec"
 
-	"github.com/lomoonmoonbird/chaosblade-exec-cloud/exec"
+	"github.com/zexiplus/chaosblade-exec-cloud/exec"
 )
 
 // Support for other project about chaosblade
